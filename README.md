@@ -13,4 +13,4 @@ Please input values correctly!
 
 You can see old one version on [here](https://github.com/batuberksahin/heron/blob/4b8157c9165f88c2224f7a3c008e566c9ac024e6/heronFormulu.py "heronFormulu.py").
 
-Old one is 231 byte, new one is 166 byte. (only fuction parts)
+Old one is 231 byte, new one is 166 byte. (only function parts)
