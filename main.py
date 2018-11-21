@@ -1,8 +1,7 @@
 from heron import *
 
 while True:
-    values = input('Enter triangle edges length: ')
-    edges = values.split(',')
+    edges = input('Enter triangle edges length: ').split(',')
 
     print('Please input values correctly!' if edges.__len__()==2 else
           ('Please input values correctly!' if not all([i.isdigit() for i in edges]) else
